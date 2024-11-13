@@ -19,9 +19,9 @@
 
 <div style="display:flex; justify-content:space-around; align-items:center
 ; align-content:center; width: 100%">
-<img height="40em" src="./static/js.png" style="border-radius:15%; margin-left:10px"/> 
-<img height="40em" src="./static/ts.png" style="margin-left:10px"> 
-<img height="40em" src="./static/java.png" style="margin-left:10px"> 
+<img height="40em" src="./static/js.png" style="border-radius:15%; "/> 
+<img height="40em" src="./static/ts.png" style=""> 
+<img height="40em" src="./static/java.png" style=""> 
 </div>
 </div>
 
@@ -31,11 +31,11 @@
 
 <div style="display:flex; justify-content:space-around; align-items:center
 ; align-content:center; width: 100%">
-<img height="40em" src="./static/react.png" style="border-radius:15%; margin-left:10px"/> 
-<img height="40em" src="./static/express.png" style="margin-left:10px"> 
-<img height="40em" src="./static/fastify.png" style="border-radius:15%; margin-left:10px"> 
-<img height="40em" src="./static/nestjs.png" style="margin-left:10px"> 
-<img height="40em" src="./static/springboot.png" style="margin-left:10px"> 
+<img height="40em" src="./static/react.png" style="border-radius:15%; "/> 
+<img height="40em" src="./static/express.png" style=""> 
+<img height="40em" src="./static/fastify.png" style="border-radius:15%; "> 
+<img height="40em" src="./static/nestjs.png" style=""> 
+<img height="40em" src="./static/springboot.png" style=""> 
 </div>
 </div>
 
@@ -45,10 +45,10 @@
 
 <div style="display:flex; justify-content:space-around; align-items:center
 ; align-content:center; width: 100%">
-<img height="40em" src="./static/mongodb.png" style="border-radius:15%; margin-left:10px"/> 
-<img height="40em" src="./static/Postgresql.png" style="margin-left:10px"> 
-<img height="40em" src="./static/elastic.png" style="border-radius:15%; margin-left:10px"> 
-<img height="40em" src="./static/opensearch.png" style="margin-left:10px"> 
+<img height="40em" src="./static/mongodb.png" style="border-radius:15%; "/> 
+<img height="40em" src="./static/Postgresql.png" style=""> 
+<img height="40em" src="./static/elastic.png" style="border-radius:15%; "> 
+<img height="40em" src="./static/opensearch.png" style=""> 
 </div>
 </div>
 
@@ -58,9 +58,9 @@
 
 <div style="display:flex; justify-content:space-around; align-items:center
 ; align-content:center; width: 100%">
-<img height="40em" src="./static/Docker_logo.png" style="border-radius:15%; margin-left:10px"/> 
-<img height="40em" src="./static/compose.png" style="margin-left:10px"> 
-<img height="40em" src="./static/Kubernetes.png" style="border-radius:15%; margin-left:10px"> 
-<img height="40em" src="./static/jest.png" style="margin-left:10px"> 
+<img height="40em" src="./static/Docker_logo.png" style="border-radius:15%; "/> 
+<img height="40em" src="./static/compose.png" style=""> 
+<img height="40em" src="./static/Kubernetes.png" style="border-radius:15%; "> 
+<img height="40em" src="./static/jest.png" style=""> 
 </div>
 </div>
