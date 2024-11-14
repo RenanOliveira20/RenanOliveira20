@@ -6,13 +6,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=RenanOliveira20&show_icons=true&theme=transparent&langs_count=16&hide_border=true" /> 
 </div>
 
-<div style="display:flex; justify-content:space-around; align-items:center
-; align-content:center; width: 100%; border-bottom: 1px double #ffffff;">
-
-# Languages & Frameworks 🛠
-
-</div>
-
 <div>
 
 ## Languages
